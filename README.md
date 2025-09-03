@@ -1,4 +1,4 @@
-# Java-backend-Spring-boot-MySQL-login-logout-Authentication-System
+# notes-api
 * Java Backend Spring Boot Authentication System is a comprehensive and secure authentication solution developed using the Spring Boot framework. This system integrates various essential components, including Spring Security, JWT (JSON Web Tokens), and MySQL, to establish a robust user authentication experience. It offers features such as user registration, login, role-based access control, and secure logout functionality.
 
 # Table of Contents
